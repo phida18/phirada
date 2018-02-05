@@ -47,7 +47,7 @@ li{
     font-size: 30px;
 }
 #p5{
-    color: olive;
+    color: olive; 
     text-align: center;
 }
 #p6{
@@ -58,7 +58,4 @@ li{
     background-color: rgb(27, 116, 0);
     text-align: center;
     font-size: 30px;
-}
-div{
-    margin: 50px;
 }
